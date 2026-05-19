@@ -19,6 +19,9 @@ Familiar Automation Tools:
 - Android Studio (Mobile Testing Tool)
 - Azure DevOps (CI/CD)
 
+## Practice Software Testing
+[Practice Software Testing](https://www.practicesoftwaretesting.com/) is the site I will be using as a reference for building my software testing solutions. In order to run my tests, you will need to run the requirements and then to run the test cases in the tests folder.
+
 ## Contact
 - Email: s.txao.v@gmail.com
 - LinkedIn: https://www.linkedin.com/in/steven-t-vang/
